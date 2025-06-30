@@ -173,6 +173,7 @@ public class MainForm {
         addpanel.add(addButton);
         addpanel.add(deleteButton);
 
+
         //добавление выпадающего списка и поля вывода на основную панель
         jp.add(combo);
         jp.add(scrollPane);
