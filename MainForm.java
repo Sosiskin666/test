@@ -176,6 +176,7 @@ public class MainForm {
 
 
 
+
         //добавление выпадающего списка и поля вывода на основную панель
         jp.add(combo);
         jp.add(scrollPane);
